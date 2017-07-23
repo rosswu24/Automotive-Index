@@ -22,3 +22,16 @@ SELECT * FROM car_models WHERE year BETWEEN 2010 AND 2015;
 
 SELECT * FROM car_models WHERE year = 2010;
 
+
+
+-- Select
+-- 26.010
+-- 22.461
+-- 73.253
+-- 33.835
+
+-- index
+-- 1.716
+-- 1.090
+-- 64.043
+-- 12.696
